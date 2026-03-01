@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://hapistogel.com" />
+    <title>HAPISTOGEL: Bandar Togel Slot Online Gacor Terpercaya</title>
+
+    <meta name="description" content="HAPISTOGEL adalah Bandar Togel & Slot Online Gacor Terpercaya di Indonesia yang menyediakan berbagai permainan togel online, slot online gacor dan live casino online dengan sistem keamanan tercanggih." />
+    <meta name="keywords" content="hapistogel, hapistoto, togel online, bandar togel, slot online, slot gacor, casino online, bandar terpercaya, hapis slot" />
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "HAPISTOGEL",
+      "url": "https://hapistogel.com/",
+      "logo": "https://hapistogel.com/logo.png",
+      "description": "HAPISTOGEL hadir dengan sistem modern dan fitur lengkap untuk pengalaman bermain terbaik di tahun 2026. Akses mudah, aman, dan terpercaya.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Jakarta",
+        "addressCountry": "ID"
+      }
+    }
+    </script>
+
+    <style>
+        /* Global Styles */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: radial-gradient(circle at center, #001a33 0%, #000810 100%) fixed;
+            color: #ffffff;
+        }
+
+        /* Header & Logo Section */
+        header {
+            text-align: center;
+            padding: 40px 20px;
+            border-bottom: 2px solid #b8860b;
+            background: rgba(0, 0, 0, 0.5);
+        }
+
+        .logo-container h1 {
+            font-size: 3rem;
+            margin: 0;
+            background: linear-gradient(to bottom, #fff3a3 0%, #d4af37 50%, #b8860b 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 0px 5px 15px rgba(212, 175, 55, 0.3);
+            letter-spacing: 5px;
+            font-weight: bold;
+        }
+
+        .tagline {
+            color: #d4af37;
+            font-size: 1.2rem;
+            margin-top: 10px;
+            text-transform: uppercase;
+        }
+
+        /* Navigation Button Styles */
+        .btn-wrapper {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin: 30px 0;
+        }
+
+        .btn-main {
+            padding: 15px 40px;
+            font-size: 18px;
+            font-weight: bold;
+            text-transform: uppercase;
+            border-radius: 50px;
+            cursor: pointer;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            border: 2px solid #d4af37;
+        }
+
+        .login-btn {
+            background: linear-gradient(to bottom, #d4af37, #8a6d3b);
+            color: #000;
+        }
+
+        .register-btn {
+            background: transparent;
+            color: #d4af37;
+        }
+
+        .btn-main:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(212, 175, 55, 0.4);
+        }
+
+        /* Content Area */
+        .container {
+            max-width: 1000px;
+            margin: 40px auto;
+            background: rgba(0, 26, 51, 0.8);
+            padding: 30px;
+            border-radius: 20px;
+            border: 1px solid rgba(212, 175, 55, 0.2);
+            box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+        }
+
+        .promo-banner {
+            width: 100%;
+            border-radius: 15px;
+            border: 1px solid #d4af37;
+            margin-bottom: 30px;
+        }
+
+        h2 {
+            color: #d4af37;
+            border-left: 5px solid #d4af37;
+            padding-left: 15px;
+        }
+
+        .game-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .game-card {
+            background: #00264d;
+            padding: 20px;
+            text-align: center;
+            border-radius: 10px;
+            border: 1px solid #1a3d5c;
+            transition: 0.3s;
+        }
+
+        .game-card:hover {
+            border-color: #d4af37;
+            background: #003366;
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px;
+            font-size: 0.9rem;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <div class="logo-container">
+        <h1>HAPISTOGEL</h1>
+        <div class="tagline">Togel • Slot • Live Casino</div>
+    </div>
+    
+    <div class="btn-wrapper">
+        <a href="#" class="btn-main login-btn">Masuk</a>
+        <a href="#" class="btn-main register-btn">Daftar</a>
+    </div>
+</header>
+
+<div class="container">
+    <section id="about">
+        <h2>HAPISTOGEL: Platform Betting Masa Depan</h2>
+        <p>Selamat datang di <strong>HAPISTOGEL</strong>, situs resmi penyedia layanan Togel Online dan Slot Gacor dengan winrate tertinggi di Indonesia. Kami menghadirkan teknologi server terbaru yang memastikan kecepatan akses dan keamanan data member 100% terjamin.</p>
+        
+        <div class="game-grid">
+            <div class="game-card">
+                <h3>🎰 SLOT GACOR</h3>
+                <p>Provider Pragmatic, PG Soft, Habanero.</p>
+            </div>
+            <div class="game-card">
+                <h3>🎲 TOGEL ONLINE</h3>
+                <p>Pasaran HK, SGP, Sydney, Toto Macau.</p>
+            </div>
+            <div class="game-card">
+                <h3>🃏 LIVE CASINO</h3>
+                <p>Baccarat, Roulette, Sicbo Real-time.</p>
+            </div>
+        </div>
+    </section>
+
+    <section style="margin-top: 40px;">
+        <h3>Keunggulan HAPISTOGEL</h3>
+        <ul>
+            <li>Proses Deposit & Withdraw Kilat (Kurang dari 3 Menit).</li>
+            <li>Layanan Customer Service 24/7 Tanpa Henti.</li>
+            <li>Bonus New Member dan Cashback Mingguan Terbesar.</li>
+            <li>Sistem Fair Play & Lisensi Internasional.</li>
+        </ul>
+    </section>
+</div>
+
+<footer>
+    &copy; 2026 HAPISTOGEL. All Rights Reserved. <br>
+    Jl. Peluang Menang No.99, Jakarta, Indonesia.
+</footer>
+
+</body>
+</html>
